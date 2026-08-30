@@ -1,9 +1,8 @@
-# Inventory Management System (Excel)
+# Inventory Management System
 
 A single-workbook inventory system built in Excel. It tracks products, vendors, and
 customers, logs purchases and sales, and automatically rolls everything up into a live
-stock ledger, a P&L snapshot, and low-stock re-order alerts — using formulas and Excel
-Tables only (no macros/VBA).
+stock ledger, a P&L snapshot, and low-stock re-order alerts.
 
 ## What's in the workbook
 
